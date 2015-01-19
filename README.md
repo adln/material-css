@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="css/material.min.css" />
 # material-css
 Is a collection of google material colors css classes
 
