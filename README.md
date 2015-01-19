@@ -14,40 +14,40 @@ or
 ## Classes list
 To use a color, add a css class `.material-{color}` for the css color and `.material-bg-{color}` for the background color
 ### Colors list
-**red** 
-
-**pink**
-
-**purple**
-
-**deep-purple**
-
-**indigo**
-
-**blue**
-
-**light-blue**
-
-**cyan**
-
-**teal**
-
-**green**
-
-**light-green**
-
-**lime**
-
-**yellow**
-
-**amber**
-
-**orange**
-
-**deep-orange**
-
-**brown**
-
-**grey**
-
-**blue-grey**
+###### red
+----------
+###### pink
+------------
+###### purple
+----------
+###### deep-purple
+------------
+###### indigo
+-----------
+###### blue
+----------
+###### light-blue
+----------
+###### cyan
+----------
+###### teal
+----------
+###### green
+----------
+###### light-green
+----------
+###### lime
+----------
+###### yellow
+----------
+###### amber
+----------
+###### orange
+----------
+###### deep-orange
+----------
+###### brown
+----------
+###### grey
+----------
+###### blue-grey
